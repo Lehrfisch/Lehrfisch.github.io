@@ -1,0 +1,19 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+canvas {
+    display: block;
+}
+
+.rot {
+    color: rgba(255, 0, 0, 0.781);
+}
+
+.blau {
+    color: blue;
+}
