@@ -1,5 +1,5 @@
 body {
-    background-color: chartreuse;
+    background-color: rgb(54, 105, 3);
 }
 
 h1 {
@@ -11,9 +11,11 @@ canvas {
 }
 
 .rot {
-    color: rgba(255, 0, 0, 0.781);
+    color: darkred;
+    font-style: italic;
+    font-size: 2em;
 }
 
 .blau {
-    color: blue;
+    color: darkcyan;
 }
