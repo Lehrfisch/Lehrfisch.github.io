@@ -23,11 +23,11 @@ function preload() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  msg.push("Draw Make Code");
-  msg.push("MORPHING TEXT");
-  msg.push("in p5.js");
-  msg.push("Creative Coding");
-  msg.push("Tutorial");
+  msg.push("Liebe Isa");
+  msg.push("Happy Birthday");
+  msg.push("Spirituelle Erleuchtung");
+  msg.push("Gute Nerven für die Kids");
+  msg.push("Bssrl von Pips");
   // msg.push("CLOCK");
   // msg.push("DATE");
 
@@ -43,7 +43,7 @@ function draw() {
 
 function morphMaker() {
   this.size = 8;
-  this.speed = 0.15;
+  this.speed = 0.03;
   this.close = 0.5;
   this.msgswitch = 0;
   this.offset = random(1000);
